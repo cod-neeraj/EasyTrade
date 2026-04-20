@@ -1,4 +1,4 @@
-# 📈 ChainTrade — Stock Trading Application
+# 📈 EasyTrade — Stock Trading Application
 
 A full-stack stock trading web application built with **Spring Boot**, **MySQL**, and **Thymeleaf**. ChainTrade allows users to register, manage a portfolio, buy/sell stocks, track transactions, and interact with an AI-powered chatbot — all within a clean, session-based web interface.
 
